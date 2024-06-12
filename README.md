@@ -7,3 +7,5 @@ Dynamic styling based on weather conditions.
 Search for locations using the OpenStreetMap API.
 Responsive design, adaptable to various screen sizes.
 Clean and modern UI with Chakra UI.
+
+![image](https://github.com/almoutifoivos/WeatherApp/assets/140003705/6bd35b4f-add3-49ca-ba6d-f63878c4a0ab)
